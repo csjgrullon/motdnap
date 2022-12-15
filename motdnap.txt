@@ -1,0 +1,22 @@
+
+***************************************************************************
+*                                                                         *
+*                               -AVISO-                                   *
+*                                                                         *
+*  El acceso a este servidor, a sus datos o a sus recursos de red o       *
+*  computación está estrictamente restringido a usuarios oficialmente     *
+*  autorizados por NAP del Caribe. El uso del sistema queda limitado al   *
+*  alcance establecido en dicha autorización no pudiendo en ningún caso,  *
+*  so pena de la posible comisión de un delito o falta, extraer o         *
+*  revelar a terceros cualquier tipo de información alojada en dicho      *
+*  sistema.                                                               *
+*                                                                         *
+*  Todas las acciones que se realicen serán registradas y supervisadas.   *
+*                                                                         *
+*  El acceso no autorizado o el uso indebido del sistema están            *
+*  terminantemente prohibidos y podría suponer una conducta constitutiva  *
+*  de delito o falta, además de violar la política de seguridad de la     *
+*  organización, y por tanto ser sancionable laboralmente.                *
+*                                                                         *
+***************************************************************************
+
